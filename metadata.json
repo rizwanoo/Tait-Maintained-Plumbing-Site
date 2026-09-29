@@ -1,0 +1,7 @@
+{
+  "name": "Tait Maintained - Plumbing, Heating & Peace of Mind",
+  "description": "Premium plumbing and heating services by Tait Maintained. Reliable residential plumbing, heating maintenance, water heaters, and peace of mind.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
